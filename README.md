@@ -13,7 +13,7 @@ Here are our project contributors:
 
 
 ## Links dos assets utilizados
-<td style="text-align: center;"><a href="https://craftpix.net/product/rpg-platformer-game-assets/?num=2&count=40&sq=dark&pos=9"><img style="border-radius: 50%;"/><sub><b>RPG PLATFORMER GAME ASSETS</b></sub></a>
+<td style="text-align: center;"><a href="https://craftpix.net/product/rpg-platformer-game-assets/?num=2&count=40&sq=dark&pos=9"><img style="border-radius: 50%;"/><sub><b>RPG PLATFORMER GAME ASSETS</b></sub></a><br>
 
 <td style="text-align: center;"><a href="https://craftpix.net/product/cartoon-halloween-game-backgrounds/?num=1&count=49&sq=dark%20forest&pos=1"><img style="border-radius: 50%;"/><sub><b>CARTOON HALLOWEEN GAME BACKGROUNDS</b></sub></a>
 
